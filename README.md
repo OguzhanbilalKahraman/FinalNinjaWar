@@ -53,14 +53,10 @@ ESC ----> pause menu // buradan ana menüye geçiş yapabilirsiniz.
 
 
                 Hikaye
-                
-    Nippon 'da büyük edo dönemi sonrasında ninja klanları arasında güç dengeleri değişmiştir. 
-    
-    Edo döneminde Nippon'un en güçlü ninja klanı olan İga klanından Obi, Klanını eski istikrarına kavuşturmak için çıktığı görevlerde farkına varırki,
-    
-    savaştığı şeyler sadece Harusame ( Uzay Korsanları) değildir. 
-    
-    Diğer Ninja klanları mutlak gücü İga klanına vermek istememektedir. Bakalım Kahramınımız Obi tekrardan güç sıralamasında klanını ilk bire koyabilecek mi?
+   Nippon 'da büyük edo dönemi sonrasında ninja klanları arasında güç dengeleri değişmiştir. 
+   Edo döneminde Nippon'un en güçlü ninja klanı olan İga klanından Obi, Klanını eski istikrarına kavuşturmak için çıktığı görevlerde farkına varırki,
+   savaştığı şeyler sadece Harusame ( Uzay Korsanları) değildir. 
+   Diğer Ninja klanları mutlak gücü İga klanına vermek istememektedir. Bakalım Kahramınımız Obi tekrardan güç sıralamasında klanını ilk bire koyabilecek mi?
 
 
             
@@ -69,12 +65,11 @@ ESC ----> pause menu // buradan ana menüye geçiş yapabilirsiniz.
             
             
             
-            
-            
-              Projemizde İş Dağılımı
+     
+      
 
 
-
+      Projemizde İş Dağılımı
 Ana Menü // Ahmet Yildirim
 
 Oynanabilir Sahneler ve Sahneler arasi asenkron gecis// Oguzhan Kahraman
@@ -104,7 +99,7 @@ https://simmer.io/@OguzhanBilalK/final-ninja-war
  
  
  
- Oyun İçi Görseller:
+                Oyun İçi Görseller:
  
  --Ana Menu--
  ![image](https://user-images.githubusercontent.com/73184456/212918786-3b902e70-7176-4a1e-b03c-65c6fa2f6c2b.png)
