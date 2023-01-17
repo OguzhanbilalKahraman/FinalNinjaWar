@@ -3,6 +3,40 @@ Game Programming Project
 2d platform game
 
 
+               Oyun Hakkında:
+               
+Simmer İO dan ilk açıldığında sizi ana menü karşılıyor. Eğer ekranın sol kısmında kalıp yanarsanız, oyun ana menüye dönüyor. Ana menü de müzik var lütfen simmer iodan açtıktan sonra müzik başlayabilmesi için butonlar hariç oyunun herhangi bir yerine tıklayın.
+
+
+
+
+
+
+              Kullanılan Assetler:
+
+https://assetstore.unity.com/packages/2d/characters/ninja-sprite-sheet-free-93901
+
+
+https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838
+
+
+
+
+
+
+
+            Müzikler ve Footstep Sesi:
+            
+https://www.youtube.com/watch?v=6H3MS58KTV8
+
+https://freesound.org/search/?q=footsteps
+
+
+
+
+
+
+
 
                 Oynanış ve Tuş
 Oyun tuşları W/A/S/D veya YÖN TUŞLARI'dır.
@@ -10,6 +44,12 @@ W-YUKARI OK ----> YUKARI EKSENE GEÇİŞ SAĞLAR
 S-AŞAĞI OK ----> AŞAĞI EKSENE GEÇİŞ SAĞLAR
 A-SOL OK ----> SOLA HAREKET SAĞLAR
 D-SAĞ OK ----> SAĞA HAREKET SAĞLAR
+ESC ----> pause menu // buradan ana menüye geçiş yapabilirsiniz.
+
+
+
+
+
 
 
                 Hikaye
@@ -21,6 +61,18 @@ D-SAĞ OK ----> SAĞA HAREKET SAĞLAR
     savaştığı şeyler sadece Harusame ( Uzay Korsanları) değildir. 
     
     Diğer Ninja klanları mutlak gücü İga klanına vermek istememektedir. Bakalım Kahramınımız Obi tekrardan güç sıralamasında klanını ilk bire koyabilecek mi?
+
+
+            
+            
+            
+            
+            
+            
+            
+            
+              Projemizde İş Dağılımı
+
 
 
 Ana Menü // Ahmet Yildirim
@@ -37,11 +89,22 @@ PauseMenu Screen ve Pause Menuden Ana Menuye Gecis // Ahmet Yıldırım ve Oguzh
 
 
 
+
+
+
+
               Oyunu Oynamak İçin Gerekli Url:
 https://simmer.io/@OguzhanBilalK/final-ninja-war
  
  
- Oyun İçi Görsel
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oyun İçi Görseller:
  
  --Ana Menu--
  ![image](https://user-images.githubusercontent.com/73184456/212918786-3b902e70-7176-4a1e-b03c-65c6fa2f6c2b.png)
