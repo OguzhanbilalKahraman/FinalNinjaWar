@@ -25,11 +25,11 @@ D-SAĞ OK ----> SAĞA HAREKET SAĞLAR
 
 Ana Menü // Ahmet Yildirim
 
-Oynanabilir Sahneler ve Sahneler arasi gecis// Oguzhan Kahraman
+Oynanabilir Sahneler ve Sahneler arasi asenkron gecis// Oguzhan Kahraman
 
 Kayit Alma// Ahmet Yildirim
 
-Karakter,Idle  ve Run Animasyonu ekleme // Oguzhan Kahraman 
+Karakter,Idle  ve Run Animasyonu ekleme, animasyonlar arası iki yönlü geçişler, oluşturulan parametrenin movement scriptinden değer alması.  // Oguzhan Kahraman 
 
 Ses ve Müzik, Müziğin ana menü de çalmasını sağlama, diğer sahnelerde kaldığı yerden devam etmesini sağlama // Ahmet Yıldırım
 
